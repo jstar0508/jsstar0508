@@ -1,4 +1,4 @@
-Hi, I’m JStar — a Full Stack Web Developer and Software Engineer with 8+ years of experience building products in startup environments.
+Hi, I’m JStar — a Full Stack Web Developer and Software Engineer with 6+ years of experience building products in startup environments.
 
 Over the years, I’ve grown from junior to senior roles while working on the full software development lifecycle, including system design, development, testing, deployment, and maintenance.
 
